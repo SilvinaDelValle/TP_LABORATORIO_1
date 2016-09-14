@@ -65,7 +65,7 @@ int main()
                 break;
             case 5:
                 if(ValidarDivision(b))
-                {http://www.utnfravirtual.org.ar/pluginfile.php/43000/mod_page/content/37/Estructuras.pdf
+                {
                     printf("El resultado de la division es: %.2f\n", Dividir(a, b));
                 }
                 system("pause");
