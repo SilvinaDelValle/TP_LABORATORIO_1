@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1477065378 source:d:\tecnico superior programación\1er cuatrimestre\laboratorio i\trabajos practicos\tp 3\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+	"funciones.h"
+
+1477061291 d:\tecnico superior programación\1er cuatrimestre\laboratorio i\trabajos practicos\tp 3\tp_3_cascara\utn.h
+
+1477066270 d:\tecnico superior programación\1er cuatrimestre\laboratorio i\trabajos practicos\tp 3\tp_3_cascara\funciones.h
+
+1477065928 source:d:\tecnico superior programación\1er cuatrimestre\laboratorio i\trabajos practicos\tp 3\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"funciones.h"
+
+1477061272 source:d:\tecnico superior programación\1er cuatrimestre\laboratorio i\trabajos practicos\tp 3\tp_3_cascara\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1477065928 source:d:\tecnico superior programación\1er cuatrimestre\laboratorio i\trabajos practicos\tp 3\tp_3_peliculas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"funciones.h"
+
+1477061291 d:\tecnico superior programación\1er cuatrimestre\laboratorio i\trabajos practicos\tp 3\tp_3_peliculas\utn.h
+
+1477066270 d:\tecnico superior programación\1er cuatrimestre\laboratorio i\trabajos practicos\tp 3\tp_3_peliculas\funciones.h
+
+1477061272 source:d:\tecnico superior programación\1er cuatrimestre\laboratorio i\trabajos practicos\tp 3\tp_3_peliculas\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1477067353 source:d:\tecnico superior programación\1er cuatrimestre\laboratorio i\trabajos practicos\tp 3\tp_3_peliculas\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+	"funciones.h"
+
